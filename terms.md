@@ -1,3 +1,6 @@
+---
+---
+
 # Personal Planner terms of use
 
 Effective: 24 October 2026.
