@@ -1,3 +1,6 @@
+---
+---
+
 # Personal Planner privacy policy
 
 Effective: 24 October 2026.
