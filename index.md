@@ -1,3 +1,6 @@
+---
+---
+
 # Personal Planner
 
 Personal Planner is a private, locally run assistant integration for the account owner’s Google Tasks and native macOS calendars and reminders. It is not a public service.
